@@ -1,0 +1,61 @@
+
+#gameName{
+	font-family:Courier New;
+	color:yellow;
+}
+
+header{
+	margin-left:900px;
+	margin-top:10px;
+}
+#yourCharacter{
+	font-family:Courier New;
+	color:yellow;
+	font-size:20px;
+	margin-left:-110px;
+}
+#enemies{
+	font-family:Courier New;
+	color:yellow;
+	font-size:20px;
+	margin-left:20px;
+	float: none;
+}
+
+#fight{
+	font-family:Courier New;
+	color:yellow;
+	font-size:20px;
+	margin-left:20px;
+}
+
+#button{
+	margin-left:20px;
+}
+#deftext{
+	font-family:Courier New;
+	color:yellow;
+	font-size:20px;
+	margin-left:20px;
+	margin-top: 10px;
+}
+#something{
+	font-family:Courier New;
+	color:yellow;
+	font-size:17px;
+	margin-left:20px;
+}
+#nothing{
+	font-family:Courier New;
+	color:yellow;
+	font-size:17px;
+	margin-left:20px;
+}
+.health{
+	color:yellow;
+	margin-left: 45px;
+}
+
+.container {
+	float: left;
+}
