@@ -19,9 +19,7 @@ header{
 	color:yellow;
 	font-size:20px;
 	margin-left:20px;
-	float: none;
 }
-
 #fight{
 	font-family:Courier New;
 	color:yellow;
@@ -54,8 +52,4 @@ header{
 .health{
 	color:yellow;
 	margin-left: 45px;
-}
-
-.container {
-	float: left;
 }
